@@ -163,10 +163,12 @@ header .nav {
 .container .welcome-sec .contain {
   display: flex;
   justify-content: center;
+  align-items: center;
+  margin-top: 75px;
 
-  position: absolute;
+  /* position: absolute;
   left: 600px;
-  top: 450px;
+  top: 450px; */
 }
 
 .container .welcome-sec .contain .circle {
@@ -375,7 +377,7 @@ header .nav {
 }
 
 .project-4 .website-link {
-  margin-top: 40px;
+  margin-top: 10px;
 }
 
 .project-5 .website-link {
@@ -404,7 +406,7 @@ header .nav {
   font-weight: 600;
   cursor: pointer;
   border-radius: 5px;
-  padding: 20px 0 0 20px;
+  /* padding: 20px 0 0 20px; */
   box-shadow: 4px 4px 4px #cfcfcf;
 }
 
